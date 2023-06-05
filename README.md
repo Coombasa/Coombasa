@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Coombasa!
+- 👀 I’m interested in using software to solve a variety of problems.
+- 🌱 I’m currently improving my skills in Python.
